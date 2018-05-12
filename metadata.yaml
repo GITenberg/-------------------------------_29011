@@ -1,0 +1,40 @@
+_repo: '-------------------------------_29011'
+_version: 0.1.0
+alternative_title: Nicomachean Ethics, Vol. 2
+contributor:
+  translator:
+    agent_name: Zambas, Kyriakos
+    alias: Ζάμπας, Κυριάκος
+    birthdate: 1866
+    gutenberg_agent_id: '33454'
+    url: http://www.gutenberg.org/2009/agents/33454
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Aristotle
+    aliases:
+    - Αριστοτέλης
+    - Aristoteles
+    birthdate: -384
+    deathdate: -322
+    gutenberg_agent_id: '2747'
+    url: http://www.gutenberg.org/2009/agents/2747
+    wikipedia:
+    - http://el.wikipedia.org/wiki/%CE%91%CF%81%CE%B9%CF%83%CF%84%CE%BF%CF%84%CE%AD%CE%BB%CE%B7%CF%82
+    - http://en.wikipedia.org/wiki/Aristotle
+description: ''
+gutenberg_issued: '2009-05-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29011'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'B'
+- !lcsh 'Ethics'
+title: Ηθικά Νικομάχεια, Τόμος Δεύτερος
+url: http://www.gutenberg.org/ebooks/29011
